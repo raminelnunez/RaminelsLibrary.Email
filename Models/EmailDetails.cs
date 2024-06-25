@@ -2,11 +2,11 @@
 {
     public class EmailDetails
     {
-        public required string Server { get; set; }
+        public string Server { get; set; }
 
-        public required string Sender { get; set; }
+        public string Sender { get; set; }
 
-        public required string Recipients { get; set; }
+        public string Recipients { get; set; }
 
         public bool DoNotSend { get; set; } = false;
 
