@@ -13,6 +13,7 @@
 	<PackageTags>Email;Emails;Utility</PackageTags>
 	<RepositoryUrl>https://github.com/raminelnunez/RaminelsLibrary.Email</RepositoryUrl>
 	<IncludeSymbols>False</IncludeSymbols>
+	<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
