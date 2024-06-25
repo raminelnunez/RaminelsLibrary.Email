@@ -25,4 +25,10 @@
     <ProjectReference Include="..\RaminelsLibrary\RaminelsLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
